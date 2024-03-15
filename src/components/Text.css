@@ -1,0 +1,146 @@
+/* CSS Text Styles */
+
+/* Text Color */
+.txt-color-black {
+    color: black;
+}
+
+.txt-color-white {
+    color: white;
+}
+
+.txt-color-red {
+    color: red;
+}
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Text Size */
+.txt-small {
+    font-size: small;
+}
+
+.txt-medium {
+    font-size: medium;
+}
+
+.txt-large {
+    font-size: large;
+}
+
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+.txt-justify {
+    text-align: justify;
+}
+
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+.txt-none {
+    text-decoration: none;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+.txt-none-transform {
+    text-transform: none;
+}
+
+/* Text Spacing */
+.txt-letter-spacing {
+    letter-spacing: 2px; 
+}
+
+.txt-word-spacing {
+    word-spacing: 4px; 
+}
+
+.txt-line-height {
+    line-height: 1.5; 
+}
+
+.txt-text-indent {
+    text-indent: 20px; 
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust values as needed */
+}
