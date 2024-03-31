@@ -1,0 +1,946 @@
+/* ---------------------------------------- CSS Library for Bootstrap Colors ------------------------------------------------------ */
+
+/* Primary Color */
+.bts-primary {
+    color: #007bff !important;
+}
+
+.bts-primary-bg {
+    background-color: #007bff !important;
+}
+
+/* Secondary Color */
+.bts-secondary {
+    color: #6c757d !important;
+}
+
+.bts-secondary-bg {
+    background-color: #6c757d !important;
+}
+
+/* Success Color */
+.bts-success {
+    color: #28a745 !important;
+}
+
+.bts-success-bg {
+    background-color: #28a745 !important;
+}
+
+/* Danger Color */
+.bts-danger {
+    color: #dc3545 !important;
+}
+
+.bts-danger-bg {
+    background-color: #dc3545 !important;
+}
+
+/* Warning Color */
+.bts-warning {
+    color: #ffc107 !important;
+}
+
+.bts-warning-bg {
+    background-color: #ffc107 !important;
+}
+
+/* Info Color */
+.bts-info {
+    color: #17a2b8 !important;
+}
+
+.bts-info-bg {
+    background-color: #17a2b8 !important;
+}
+
+/* Light Color */
+.bts-light {
+    color: #f8f9fa !important;
+}
+
+.bts-light-bg {
+    background-color: #f8f9fa !important;
+}
+
+/* Dark Color */
+.bts-dark {
+    color: #343a40 !important;
+}
+
+.bts-dark-bg {
+    background-color: #343a40 !important;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for Border Styles ------------------------------------------ */
+
+/* Dotted Border */
+.border-dotted {
+    border-style: dotted !important;
+}
+
+/* Dashed Border */
+.border-dashed {
+    border-style: dashed !important;
+}
+
+/* Hidden Border */
+.border-hidden {
+    border-style: hidden !important;
+}
+
+/* None Border */
+.border-none {
+    border-style: none !important;
+}
+
+/* Outset Border */
+.border-outset {
+    border-style: outset !important;
+}
+
+/* Inset Border */
+.border-inset {
+    border-style: inset !important;
+}
+
+/* Ridge Border */
+.border-ridge {
+    border-style: ridge !important;
+}
+
+/* Groove Border */
+.border-groove {
+    border-style: groove !important;
+}
+
+/* Double Border */
+.border-double {
+    border-style: double !important;
+}
+
+/* Solid Border */
+.border-solid {
+    border-style: solid !important;
+}
+
+
+/* CSS Library for Border Widths */
+
+/* Border Widths */
+.border-width-0 {
+    border-width: 0px !important;
+}
+
+.border-width-1 {
+    border-width: 1px !important;
+}
+
+.border-width-2 {
+    border-width: 2px !important;
+}
+
+.border-width-3 {
+    border-width: 3px !important;
+}
+
+.border-width-4 {
+    border-width: 4px !important;
+}
+
+.border-width-5 {
+    border-width: 5px !important;
+}
+
+/* Border Widths with Half Pixels */
+.border-width-half-1 {
+    border-width: 0.5px !important;
+}
+
+.border-width-half-2 {
+    border-width: 1.5px !important;
+}
+
+.border-width-half-3 {
+    border-width: 2.5px !important;
+}
+
+.border-width-half-4 {
+    border-width: 3.5px !important;
+}
+
+.border-width-half-5 {
+    border-width: 4.5px !important;
+}
+
+
+/* Shorthand for Border Property */
+.border {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.border-dotted {
+    border: dotted 1px;
+}
+
+.border-dashed {
+    border: dashed 1px;
+}
+
+.border-hidden {
+    border: hidden 1px;
+}
+
+.border-none {
+    border: none;
+}
+
+.border-outset {
+    border: outset 1px;
+}
+
+.border-inset {
+    border: inset 1px;
+}
+
+.border-ridge {
+    border: ridge 1px;
+}
+
+.border-groove {
+    border: groove 1px;
+}
+
+.border-double {
+    border: double 1px;
+}
+
+
+/* CSS Library for Rounded Borders */
+
+/* Fully Rounded Borders */
+.border-rounded {
+    border-radius: 50% !important;
+}
+
+/* Specific Corner Rounded Borders */
+.border-rounded-top-left {
+    border-top-left-radius: 5px !important;
+}
+
+.border-rounded-top-right {
+    border-top-right-radius: 5px !important;
+}
+
+.border-rounded-bottom-left {
+    border-bottom-left-radius: 5px !important;
+}
+
+.border-rounded-bottom-right {
+    border-bottom-right-radius: 5px !important;
+}
+
+/* Custom Rounded Borders */
+.border-rounded-custom {
+    border-radius: 10px !important;
+}
+
+/* Fully Rounded Borders with Half Percentage */
+.border-rounded-half {
+    border-radius: 25% !important;
+}
+                
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for Fonts ----------------------------------------------------- */
+/* CSS Library for Fonts */
+
+/* Arial Font */
+.fonts-arial {
+    font-family: Arial, sans-serif !important;
+}
+
+/* Helvetica Font */
+.fonts-helvetica {
+    font-family: Helvetica, sans-serif !important;
+}
+
+/* Times New Roman Font */
+.fonts-times-new-roman {
+    font-family: "Times New Roman", serif !important;
+}
+
+/* Courier Font */
+.fonts-courier {
+    font-family: Courier, monospace !important;
+}
+
+/* Verdana Font */
+.fonts-verdana {
+    font-family: Verdana, sans-serif !important;
+}
+
+/* Georgia Font */
+.fonts-georgia {
+    font-family: Georgia, serif !important;
+}
+
+/* Palatino Font */
+.fonts-palatino {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+}
+
+/* Impact Font */
+.fonts-impact {
+    font-family: Impact, sans-serif !important;
+}
+
+/* Comic Sans MS Font */
+.fonts-comic-sans-ms {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+
+/* ---------------------------------------------------------- */
+/* CSS Library for Web Safe Fonts */
+
+/* Arial */
+.fonts-arial {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+/* Helvetica */
+.fonts-helvetica {
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+
+/* Times New Roman */
+.fonts-times-new-roman {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Courier New */
+.fonts-courier-new {
+    font-family: "Courier New", Courier, monospace !important;
+}
+
+/* Georgia */
+.fonts-georgia {
+    font-family: Georgia, serif !important;
+}
+
+/* Verdana */
+.fonts-verdana {
+    font-family: Verdana, Geneva, sans-serif !important;
+}
+
+/* Trebuchet MS */
+.fonts-trebuchet-ms {
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+}
+
+/* Arial Black */
+.fonts-arial-black {
+    font-family: "Arial Black", Gadget, sans-serif !important;
+}
+
+/* Impact */
+.fonts-impact {
+    font-family: Impact, Charcoal, sans-serif !important;
+}
+
+/* Comic Sans MS */
+.fonts-comic-sans-ms {
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+/* ----------------------------------------------------------- */
+/* CSS Font Styles */
+
+/* Font Size */
+.font-size-small {
+    font-size: 12px;
+}
+
+.font-size-medium {
+    font-size: 16px;
+}
+
+.font-size-large {
+    font-size: 20px;
+}
+
+/* Font Weight */
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+/* Font Style */
+.font-style-normal {
+    font-style: normal;
+}
+
+.font-style-italic {
+    font-style: italic;
+}
+
+/* Font Family */
+.font-family-arial {
+    font-family: Arial, sans-serif;
+}
+
+.font-family-times-new-roman {
+    font-family: "Times New Roman", serif;
+}
+
+.font-family-verdana {
+    font-family: Verdana, sans-serif;
+}
+/* ---------------------------------------------------- */
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for Margin  ----------------------------------------------------*/
+
+/* Margin Top */
+.margin-top-0 {
+    margin-top: 0px !important;
+}
+
+.margin-top-1 {
+    margin-top: 2px !important;
+}
+
+.margin-top-4 {
+    margin-top: 4px !important;
+}
+
+.margin-top-8 {
+    margin-top: 8px !important;
+}
+
+.margin-top-16 {
+    margin-top: 16px !important;
+}
+
+.margin-top-32 {
+    margin-top: 32px !important;
+}
+
+.margin-top-64 {
+    margin-top: 64px !important;
+}
+
+.margin-top-128 {
+    margin-top: 128px !important;
+}
+
+/* Margin Left */
+.margin-left-0 {
+    margin-left: 0px !important;
+}
+
+.margin-left-1 {
+    margin-left: 2px !important;
+}
+
+.margin-left-4 {
+    margin-left: 4px !important;
+}
+
+.margin-left-8 {
+    margin-left: 8px !important;
+}
+
+.margin-left-16 {
+    margin-left: 16px !important;
+}
+
+.margin-left-32 {
+    margin-left: 32px !important;
+}
+
+.margin-left-64 {
+    margin-left: 64px !important;
+}
+
+.margin-left-128 {
+    margin-left: 128px !important;
+}
+
+/* Margin Right */
+.margin-right-0 {
+    margin-right: 0px !important;
+}
+
+.margin-right-1 {
+    margin-right: 2px !important;
+}
+
+.margin-right-4 {
+    margin-right: 4px !important;
+}
+
+.margin-right-8 {
+    margin-right: 8px !important;
+}
+
+.margin-right-16 {
+    margin-right: 16px !important;
+}
+
+.margin-right-32 {
+    margin-right: 32px !important;
+}
+
+.margin-right-64 {
+    margin-right: 64px !important;
+}
+
+.margin-right-128 {
+    margin-right: 128px !important;
+}
+
+/* Margin Bottom */
+.margin-bottom-0 {
+    margin-bottom: 0px !important;
+}
+
+.margin-bottom-1 {
+    margin-bottom: 2px !important;
+}
+
+.margin-bottom-4 {
+    margin-bottom: 4px !important;
+}
+
+.margin-bottom-8 {
+    margin-bottom: 8px !important;
+}
+
+.margin-bottom-16 {
+    margin-bottom: 16px !important;
+}
+
+.margin-bottom-32 {
+    margin-bottom: 32px !important;
+}
+
+.margin-bottom-64 {
+    margin-bottom: 64px !important;
+}
+
+.margin-bottom-128 {
+    margin-bottom: 128px !important;
+}
+
+/* Center Margin */
+.margin-center {
+    margin: 0px auto !important;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for Padding  ---------------------------------------------------*/
+
+/* Padding Top */
+.p-top-0 {
+    padding-top: 0px !important;
+}
+
+.p-top-1 {
+    padding-top: 2px !important;
+}
+
+.p-top-4 {
+    padding-top: 4px !important;
+}
+
+.p-top-8 {
+    padding-top: 8px !important;
+}
+
+.p-top-16 {
+    padding-top: 16px !important;
+}
+
+.p-top-32 {
+    padding-top: 32px !important;
+}
+
+.p-top-64 {
+    padding-top: 64px !important;
+}
+
+.p-top-128 {
+    padding-top: 128px !important;
+}
+
+/* Padding Left */
+.p-left-0 {
+    padding-left: 0px !important;
+}
+
+.p-left-1 {
+    padding-left: 2px !important;
+}
+
+.p-left-4 {
+    padding-left: 4px !important;
+}
+
+.p-left-8 {
+    padding-left: 8px !important;
+}
+
+.p-left-16 {
+    padding-left: 16px !important;
+}
+
+.p-left-32 {
+    padding-left: 32px !important;
+}
+
+.p-left-64 {
+    padding-left: 64px !important;
+}
+
+.p-left-128 {
+    padding-left: 128px !important;
+}
+
+/* Padding Right */
+.p-right-0 {
+    padding-right: 0px !important;
+}
+
+.p-right-1 {
+    padding-right: 2px !important;
+}
+
+.p-right-4 {
+    padding-right: 4px !important;
+}
+
+.p-right-8 {
+    padding-right: 8px !important;
+}
+
+.p-right-16 {
+    padding-right: 16px !important;
+}
+
+.p-right-32 {
+    padding-right: 32px !important;
+}
+
+.p-right-64 {
+    padding-right: 64px !important;
+}
+
+.p-right-128 {
+    padding-right: 128px !important;
+}
+
+/* Padding Bottom */
+.p-bottom-0 {
+    padding-bottom: 0px !important;
+}
+
+.p-bottom-1 {
+    padding-bottom: 2px !important;
+}
+
+.p-bottom-4 {
+    padding-bottom: 4px !important;
+}
+
+.p-bottom-8 {
+    padding-bottom: 8px !important;
+}
+
+.p-bottom-16 {
+    padding-bottom: 16px !important;
+}
+
+.p-bottom-32 {
+    padding-bottom: 32px !important;
+}
+
+.p-bottom-64 {
+    padding-bottom: 64px !important;
+}
+
+.p-bottom-128 {
+    padding-bottom: 128px !important;
+}
+
+/* Center Padding */
+.p-center {
+    padding: 0px auto !important;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for  Text ----------------------------------------------------- */
+
+/* CSS Text Styles */
+
+/* Text Color */
+.txt-color-black {
+    color: black;
+}
+
+.txt-color-white {
+    color: white;
+}
+
+.txt-color-red {
+    color: red;
+}
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Text Size */
+.txt-small {
+    font-size: small;
+}
+
+.txt-medium {
+    font-size: medium;
+}
+
+.txt-large {
+    font-size: large;
+}
+
+
+/* Text Alignment */
+.txt-left {
+    text-align: left;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-right {
+    text-align: right;
+}
+
+.txt-justify {
+    text-align: justify;
+}
+
+
+/* Text Decoration */
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+
+.txt-none {
+    text-decoration: none;
+}
+
+/* Text Transformation */
+.txt-uppercase {
+    text-transform: uppercase;
+}
+
+.txt-lowercase {
+    text-transform: lowercase;
+}
+
+.txt-capitalize {
+    text-transform: capitalize;
+}
+
+.txt-none-transform {
+    text-transform: none;
+}
+
+/* Text Spacing */
+.txt-letter-spacing {
+    letter-spacing: 2px; 
+}
+
+.txt-word-spacing {
+    word-spacing: 4px; 
+}
+
+.txt-line-height {
+    line-height: 1.5; 
+}
+
+.txt-text-indent {
+    text-indent: 20px; 
+}
+
+/* Text Shadow */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adjust values as needed */
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------ */
+/*--------------------------------------------------------- CSS Library for Width ----------------------------------------------------- */
+/* Width */
+.width-0 {
+    width: 0px !important;
+}
+
+.width-1 {
+    width: 2px !important;
+}
+
+.width-4 {
+    width: 4px !important;
+}
+
+.width-8 {
+    width: 8px !important;
+}
+
+.width-16 {
+    width: 16px !important;
+}
+
+.width-32 {
+    width: 32px !important;
+}
+
+
+/* Max Width */
+.max-width-0 {
+    max-width: 0px !important;
+}
+
+.max-width-1 {
+    max-width: 2px !important;
+}
+
+.max-width-4 {
+    max-width: 4px !important;
+}
+
+.max-width-8 {
+    max-width: 8px !important;
+}
+
+.max-width-16 {
+    max-width: 16px !important;
+}
+
+.max-width-32 {
+    max-width: 32px !important;
+}
+
+/* Min Height */
+.min-height-0 {
+    min-height: 0px !important;
+}
+
+.min-height-1 {
+    min-height: 2px !important;
+}
+
+.min-height-4 {
+    min-height: 4px !important;
+}
+
+.min-height-8 {
+    min-height: 8px !important;
+}
+
+.min-height-16 {
+    min-height: 16px !important;
+}
+
+.min-height-32 {
+    min-height: 32px !important;
+}
+
+/* Min Width */
+.min-width-0 {
+    min-width: 0px !important;
+}
+
+.min-width-1 {
+    min-width: 2px !important;
+}
+
+.min-width-4 {
+    min-width: 4px !important;
+}
+
+.min-width-8 {
+    min-width: 8px !important;
+}
+
+.min-width-16 {
+    min-width: 16px !important;
+}
+
+.min-width-32 {
+    min-width: 32px !important;
+}
